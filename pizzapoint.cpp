@@ -170,8 +170,8 @@ class pizza
 	void menuchoice()
 	{
 		cout<<"\n__________________________________________"<<endl;
-	cout<<"\n\t\tWelcome to Pizza Point"<<endl<<endl;
-	cout<<"__________________________________________"<<endl;
+		cout<<"\n\t\tWelcome to Pizza Point"<<endl<<endl;
+		cout<<"__________________________________________"<<endl;
 		cout<<endl;
 		cout<<"1. Menu.\n";
 		cout<<"2. Deals.\n";
